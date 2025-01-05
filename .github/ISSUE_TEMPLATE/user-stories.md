@@ -1,5 +1,5 @@
 ---
-name: user story
+name: user stories
 about: this templete define a user story
 title: ''
 labels: ''
